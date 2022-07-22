@@ -1,0 +1,23 @@
+{
+  "name": "ycombinator_startup_githubs_scraper",
+  "version": "1.0.0",
+  "description": "A scraper for Y Combinator",
+  "main": "scraper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voscarmv/ycombinator_startup_githubs_scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voscarmv/ycombinator_startup_githubs_scraper/issues"
+  },
+  "homepage": "https://github.com/voscarmv/ycombinator_startup_githubs_scraper#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.9"
+  }
+}
