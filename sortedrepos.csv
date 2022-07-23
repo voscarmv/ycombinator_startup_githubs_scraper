@@ -1,3 +1,4 @@
+# cat repos.csv | grep -v "^#" | while read line ; do node sorter.js $line ; done | sort -n > sortedrepos.csv
 0, https://github.com/AnomalyInnovations/serverless-cd-demo-a1c8, JavaScript
 0, https://github.com/AnomalyInnovations/sigV4Client, JavaScript
 0, https://github.com/AnomalyInnovations/toolbeam-example-api, JavaScript
